@@ -1,5 +1,5 @@
-flask >= 2.0.0
-secure_filename >= 0.0.0
-PdfReader >= 0.1.0
-openai >= 1.0.0
-load_dotenv >= 1.0.0
+flask
+secure_filename 
+PdfReader
+openai
+load_dotenv
