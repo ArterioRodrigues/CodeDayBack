@@ -1,6 +1,5 @@
 flask
 werkzeug
 PyPDF2
-io
 openai
 dotenv
