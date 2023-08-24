@@ -6,4 +6,4 @@ import openai
 from dotenv import load_dotenv
 
 
-print("Hello WOrld)
+print("Hello WOrld")
