@@ -1,5 +1,6 @@
 flask
-secure_filename 
-PdfReader
+werkzeug
+PyPDF2
+io
 openai
-load_dotenv
+dotenv
