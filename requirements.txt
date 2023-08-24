@@ -1,4 +1,4 @@
-flask >= 2.3.3
+flask >= 2.2.3
 secure_filename >= 2.0.0
 PdfReader >= 0.1.0
 openai >= 1.0.0
